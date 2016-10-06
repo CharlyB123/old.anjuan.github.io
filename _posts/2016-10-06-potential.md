@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pot"
+title: "Potential"
 date: 2016-10-06
 ---
 
